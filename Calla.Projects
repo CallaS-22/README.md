@@ -1,0 +1,18 @@
+echo "# README.md" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/CallaS-22/README.md.git
+git push -u origin main
+
+# About Me
+- I am a student at Arapahoe High School. I will graduate in 2028.
+- I took the class Raspberry Pi's and Python at EPIC campus during semester 1 of my sophmore year.
+
+# Projects Completed 
+
+
+
+
+
