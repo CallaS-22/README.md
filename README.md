@@ -1,5 +1,5 @@
 # About Me
-- I am a student at Arapahoe High School.
+- I am a student at Arapahoe High School and attend EPIC Campus for one class.
 
 # Projects
 - Light the LED:
